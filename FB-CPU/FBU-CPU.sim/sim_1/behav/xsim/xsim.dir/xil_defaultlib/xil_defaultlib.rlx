@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/okana/OneDrive/Desktop/CPU/fbcpu_core.v,1640361571,verilog,,C:/Users/okana/OneDrive/Desktop/CPU/memory.v,,FBCPU,,,,,,,,
+C:/Users/okana/OneDrive/Desktop/CPU/memory.v,1598884810,verilog,,C:/Users/okana/OneDrive/Desktop/CPU/tb_fbcpu.v,C:/Users/okana/OneDrive/Desktop/CPU/testCase1.v;C:/Users/okana/OneDrive/Desktop/CPU/testCase2.v;C:/Users/okana/OneDrive/Desktop/CPU/testCase3.v,blram,,,,,,,,
+C:/Users/okana/OneDrive/Desktop/CPU/tb_fbcpu.v,1640360423,verilog,,,,tb_fbcpu,,,,,,,,
+C:/Users/okana/OneDrive/Desktop/CPU/testCase1.v,1598883566,verilog,,,,,,,,,,,,
+C:/Users/okana/OneDrive/Desktop/CPU/testCase2.v,1598883916,verilog,,,,,,,,,,,,
+C:/Users/okana/OneDrive/Desktop/CPU/testCase3.v,1598884698,verilog,,,,,,,,,,,,
+D:/Sistem_Tasarm/FBU-CPU/FBU-CPU.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
